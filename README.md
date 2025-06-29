@@ -1,1 +1,2 @@
 # odin-recipes
+This is my first attempt at learning html and CSS in the form of a webpage of my favorite recipes. Thank you to The Odin Project for providing a free learning platform and cirriculum to help me on this new journey.
